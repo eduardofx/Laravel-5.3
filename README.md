@@ -13,7 +13,9 @@ Cadastrar Cliente : http://localhost:8000/eloquent/clients
 ______________________________________________________________________________
 
 Rotas : routes/web.php
+
 View : resources/views
+
 Controller : app/Http/Controllers
 
 
